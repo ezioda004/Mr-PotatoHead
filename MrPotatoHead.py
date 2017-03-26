@@ -1,5 +1,4 @@
 import youtube_dl
-import helga_weather
 import asyncio
 import discord
 import random
@@ -347,4 +346,4 @@ async def _bot():
 
 
 
-bot.run('Mjg3ODY3NTE2MDY2MzMyNjcy.C51hDg.YiJmd15tIZNeSTOwBEo28YrIJe8')
+bot.run('Token')
